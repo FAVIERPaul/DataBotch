@@ -1,0 +1,1 @@
+Data Botch is a project which aims to automate data identification, collection, and processing to estimate collective human behaviors as tourism flows. Using agentic orchestration, it transforms raw datasets into actionable insights ideal for research, urban planning, or marketing.
